@@ -1,5 +1,5 @@
-## AIMED LOGO![AIMED](http://i.imgur.com/xPoEqnL.png)
-## What is AIMED
+![AIMED](http://i.imgur.com/xPoEqnL.png)
+## About AIMED
 ```
 AIMED is development team and AIMED is
 developing & researching special IT Tech.
