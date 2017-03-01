@@ -18,17 +18,16 @@ he currently doesn't exist inside the team.
 
 
 [Project manager]PARK YU JIN(@aimed-yujin)
-
 [architect]LIM DONG WON(@BloodType-AB)
-
-[UX/UI Artist]GU CHANG LIM(@Luminon)
-
-[Front-end developer]KIM MU HUN(@MuhunKim)
-[Front-end developer]KIM YO HAN(@HelloWorld017)
-
-[Back-end developer]PARK SUNG MIN(@110EIm)
-
-[Full-stack developer]PARK WON(@Khoneki)
-
-[Database developer]PARK JUN YONG(@ChalkPE)```
+--
+[UX/UI]GU CHANG LIM(@Luminon)
+--
+[Front-end]KIM MU HUN(@MuhunKim)
+[Front-end]KIM YO HAN(@HelloWorld017)
+--
+[Back-end]PARK SUNG MIN(@110EIm)
+--
+[Database]PARK JUN YONG(@ChalkPE)
+--
+[unknow]PARK WON(@Khoneki)
 ```
