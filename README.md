@@ -18,7 +18,9 @@ he currently doesn't exist inside the team.
 
 
 [Project manager]PARK YU JIN(@aimed-yujin)
+--
 [architect]LIM DONG WON(@BloodType-AB)
+[architect]PARK WON(@Khoneki)
 --
 [UX/UI]GU CHANG LIM(@Luminon)
 --
@@ -28,6 +30,4 @@ he currently doesn't exist inside the team.
 [Back-end]PARK SUNG MIN(@110EIm)
 --
 [Database]PARK JUN YONG(@ChalkPE)
---
-[unknow]PARK WON(@Khoneki)
 ```
