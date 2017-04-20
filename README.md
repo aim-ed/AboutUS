@@ -1,8 +1,7 @@
 ![AIMED](http://i.imgur.com/xPoEqnL.png)
 ## About AIMED
 ```
-AIMED is development team and AIMED is
-developing & researching special IT Tech.
+AIMED is Researching & Developing special IT Idea/Tech Team.
 
 AIMED are exist three initial members.
 
