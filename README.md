@@ -21,9 +21,6 @@ he currently doesn't exist inside the team.
 [architect]LIM DONG WON(@BloodType-AB)
 [architect]PARK WON(@Khoneki)
 --
-[UX/UI]GU CHANG LIM(@Luminon)
---
-[Front-end]KIM MU HUN(@MuhunKim)
 [Front-end]KIM YO HAN(@HelloWorld017)
 --
 [Back-end]PARK SUNG MIN(@110EIm)
