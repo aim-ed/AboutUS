@@ -15,8 +15,8 @@ what he has working on it inside the team.
 he currently doesn't exist inside the team.
 (but he has authorized us to using his patent.)
 
-
-[Project manager]PARK YU JIN(@aimed-yujin)
+--
+[project manager]KIM MU HUN(railgun@muhun.kim)
 --
 [architect]LIM DONG WON(@BloodType-AB)
 [architect]PARK WON(@Khoneki)
