@@ -16,7 +16,7 @@ he currently doesn't exist inside the team.
 (but he has authorized us to using his patent.)
 
 --
-[project manager]KIM MU HUN(railgun@muhun.kim)
+[project manager]KIM MU HUN(iam@muhun.kim)
 --
 [architect]LIM DONG WON(@BloodType-AB)
 [architect]PARK WON(@Khoneki)
